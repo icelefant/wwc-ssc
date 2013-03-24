@@ -1,6 +1,19 @@
-sample-.gitignore
-WWC-SSC |Project Moon
 
+WWC-SSC |Project Moon
+=====================
+
+Here for Chrome: 
+
+1. 
+git clone https://ichelmecke@code.google.com/p/wwcommander/
+To push your changes, authenticate with your Google Account and your generated googlecode.com password.
+
+2.
+git clone https://code.google.com/p/wwcommander/
+
+or
+
+3.
 # You can copy and/or modify this file to create your own .gitignore file.
 # This keeps generated files from being added to source control management.
 .gitignore
@@ -12,3 +25,8 @@ reports/
 .DS_Store*
 *.out
 *~
+
+================================================================================================
+
+Here for Firefox OS:
+
