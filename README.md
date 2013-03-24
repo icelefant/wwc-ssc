@@ -1,7 +1,7 @@
 wwc-ssc
 =======
 
-WWC-SC |Project Moon
+WWC-SSC |Project Moon
 
 Welcome to the Source code of WWC-SSC |Project Moon App .
 
