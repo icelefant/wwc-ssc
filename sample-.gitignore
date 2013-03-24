@@ -1,10 +1,10 @@
-
 WWC-SSC |Project Moon
 =====================
 
 Here for Chrome: 
 
-1. 
+1. Get a local copy of the wwcommander repository with this command:
+
 git clone https://ichelmecke@code.google.com/p/wwcommander/
 To push your changes, authenticate with your Google Account and your generated googlecode.com password.
 
