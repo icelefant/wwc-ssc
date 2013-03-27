@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+	"name": "WWCommander",
+	"description": "Your new awesome Open Web App",
+	"launch_path": "/index.html",
+	"appcache_path": "/offline.appcache",
+	"icons": {
+		"16": "/img/icons/icerss16.png",
+		"48": "/img/icons/icerss48.png",
+		"128": "/img/icons/icerss128.png"
+	},
+	"developer": {
+		"name": "icelefant",
+		"url": "http://www.icelefant.de"
+	},
+	"installs_allowed_from": ["*"],
+	"locales": {
+		"es": {
+			"description": "Your fantastic new Open Web App",
+			"developer": {
+				"url": "https://code.google.com/p/wwcommander/"
+			}
+		},
+		"it": {
+			"description": "Your fantastic new Open Web App",
+			"developer": {
+				"url": "https://code.google.com/p/wwcommander/"
+			}
+		}
+	},
+	"default_locale": "en",
+	"permissions": {
+		"systemXHR": {}
+	}
+}
